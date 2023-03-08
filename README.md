@@ -10,6 +10,10 @@ Converts Roman Numbers to Integer
 ### [Different Methods to Find Median of two Lists](https://github.com/SandKrish/Python-Scripts/blob/main/Different_method_to_Find_median_of_two_lists.ipynb)
 It uses Different approach to find Median of two lists.
 
+## if else 
+### [Leap Year check](https://github.com/SandKrish/Python-Scripts/blob/main/Leap_Year.ipynb)
+This notebook checks if a year is Leap Year or not
+
 ## For Loop
 ### [FizzBuzz](https://github.com/SandKrish/Python-Scripts/blob/main/FizzBuzz.ipynb) 
 For Loop will print from 1 to 100, when number divisible by 3 it will print Fizz and by 5 it will print Buzz and when divisible by both 3 and 5 it will print FizzBuzz
