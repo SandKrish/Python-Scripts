@@ -10,6 +10,9 @@ Converts Roman Numbers to Integer
 ### [Different Methods to Find Median of two Lists](https://github.com/SandKrish/Python-Scripts/blob/main/Different_method_to_Find_median_of_two_lists.ipynb)
 It uses Different approach to find Median of two lists.
 
+###[Sum of two elements in List based on Condition](https://github.com/SandKrish/Python-Scripts/blob/main/Sum_of_two_elements_in_List_with_condition.ipynb)
+For a list of integers nums, and an integer target, return indices of the two numbers such that they add up to target.
+
 ## if else 
 ### [Leap Year check](https://github.com/SandKrish/Python-Scripts/blob/main/Leap_Year.ipynb)
 This notebook checks if a year is Leap Year or not
