@@ -25,6 +25,9 @@ For Loop will print from 1 to 100, when number divisible by 3 it will print Fizz
 ### [Word_Letter_Guess](https://github.com/SandKrish/Python-Scripts/blob/main/Word_Letter_Guess.py)
 Word is selected randonly and user have to guess the word letters.
 
+### [Word Guess with Blank List](https://github.com/SandKrish/Python-Scripts/blob/main/Blank_List_Word_Guess.py)
+The word to be guessed will be shown as List of "_", for example if "user" is to guessed then word to be guessed will be shown as ["_","_","_","_"]
+
 ## Randomization
 ### [Password Generator](https://github.com/SandKrish/Python-Scripts/blob/main/Password_Generator.ipynb)
 This notebook generates password with number of charaters, symbol and numbers we provide as input using randomization.
