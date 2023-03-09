@@ -31,3 +31,7 @@ The word to be guessed will be shown as List of "_", for example if "user" is to
 ## Randomization
 ### [Password Generator](https://github.com/SandKrish/Python-Scripts/blob/main/Password_Generator.ipynb)
 This notebook generates password with number of charaters, symbol and numbers we provide as input using randomization.
+
+## Game
+### [Hangman](https://github.com/SandKrish/Python-Scripts/blob/main/Hangman.py)
+Hangman word guess game
