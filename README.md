@@ -21,6 +21,10 @@ This notebook checks if a year is Leap Year or not
 ### [FizzBuzz](https://github.com/SandKrish/Python-Scripts/blob/main/FizzBuzz.ipynb) 
 For Loop will print from 1 to 100, when number divisible by 3 it will print Fizz and by 5 it will print Buzz and when divisible by both 3 and 5 it will print FizzBuzz
 
+## While Loop
+### [Word_Letter_Guess](https://github.com/SandKrish/Python-Scripts/blob/main/Word_Letter_Guess.py)
+Word is selected randonly and user have to guess the word letters.
+
 ## Randomization
 ### [Password Generator](https://github.com/SandKrish/Python-Scripts/blob/main/Password_Generator.ipynb)
 This notebook generates password with number of charaters, symbol and numbers we provide as input using randomization.
