@@ -35,3 +35,7 @@ This notebook generates password with number of charaters, symbol and numbers we
 ## Game
 ### [Hangman](https://github.com/SandKrish/Python-Scripts/blob/main/Hangman.py)
 Hangman word guess game
+
+## Maths
+### [Prime Number Check](https://github.com/SandKrish/Python-Scripts/blob/main/Prime_Number_Check.py)
+This code will check if a number is prime or not
