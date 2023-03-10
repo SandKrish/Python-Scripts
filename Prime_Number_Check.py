@@ -1,11 +1,9 @@
 def prime_checker(number):
-    counter = 2
+    is_prime = True
     for i in range(2,number):
-        if number%i != 0 :
-            counter+=1   
-        else:
-            i = number
-    if counter == number:
+        if number%i == 0 :
+            is_prime = False   
+    if is_prime:
         print("It's a prime number.")
     else:
         print("It's not a prime number.")
