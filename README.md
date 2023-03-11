@@ -35,6 +35,8 @@ This notebook generates password with number of charaters, symbol and numbers we
 ## Game
 ### [Hangman](https://github.com/SandKrish/Python-Scripts/blob/main/Hangman.py)
 Hangman word guess game
+###[Number Guess Game](https://github.com/SandKrish/Python-Scripts/blob/main/Number_Guess_Name.py)
+You have to guess numbers between 1 to 100. Difficulty you can choose either easy or hard
 
 ## Maths
 ### [Prime Number Check](https://github.com/SandKrish/Python-Scripts/blob/main/Prime_Number_Check.py)
