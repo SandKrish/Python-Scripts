@@ -1,20 +1,23 @@
 import random
 
 wordlist = ["learning", "graduate", "welcome"]
-word = random.choice(wordlist)
-output_word = ''
-counter = 0
-i = len(word)
+word = random.choice(wordlist) # Choose a random word for wordlist
+i= length = len(word)
+output_word = [str("_")]*i # create a list with "_" of length each to word length
 
-while i != 0:
+print(f"Word to Guess :  {output_word}")
+while i!=0:
     
-    user_choice_letter = input("Enter a Letter : ").lower()
-    counter+=1
-    if user_choice_letter == word[len(word)-i]:
-        output_word +=word[len(word)-i]
-        if i == 1:print(f"Congratulation, you guessed {output_word} correctly with {counter} guesses!!!")
-        else:print(f"Right, word formation till now {output_word}")
-        i -= 1
-        
-    else:
-        print("Wrong, try again")
+    user_choice = input("Guess a letter : ")
+    counter = 0
+    while counter < length:
+        if user_choice == word[counter]:
+            if output_word[counter] == "_":
+                output_word[counter]=user_choice
+                print(f"Guess Till Now is {output_word}")
+                counter = length
+                i-=1
+        counter+=1
+
+if "".join(output_word) == word :
+       print(f"Congratulation, you guessed correctly!!!!")
