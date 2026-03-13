@@ -6,6 +6,14 @@ randomization, and simple games.
 
 The scripts are useful for beginners learning Python fundamentals.
 
+Skills Demonstrated
+- Python fundamentals
+- Conditional statements
+- Loops
+- List operations
+- Randomization
+- Basic game logic
+
 ## Contents
 
 ### [Integer](https://github.com/SandKrish/Python-Scripts/blob/main/Integer2Roman.ipynb)
