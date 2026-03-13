@@ -6,11 +6,32 @@ randomization, and simple games.
 
 The scripts are useful for beginners learning Python fundamentals.
 
-## Integer
-### [Convert Integer to Roman](https://github.com/SandKrish/Python-Scripts/blob/main/Integer2Roman.ipynb)
-Converts Integer to Roman Numbers
-### [Convert Roman to Integer](https://github.com/SandKrish/Python-Scripts/blob/main/Roman2Integer.ipynb) 
-Converts Roman Numbers to Integer
+## Contents
+
+### [Integer](https://github.com/SandKrish/Python-Scripts/blob/main/Integer2Roman.ipynb)
+Programs related to number conversions and integer manipulation.
+
+### List
+Examples demonstrating operations on Python lists such as finding medians and conditional element selection.
+
+### If Else
+Programs using conditional logic to make decisions based on input values.
+
+### For Loop
+Examples that demonstrate iteration using `for` loops, including classic problems like FizzBuzz.
+
+### While Loop
+Programs that repeatedly execute code until a condition is met, such as word guessing games.
+
+### Randomization
+Examples using Python's random module, such as generating secure passwords.
+
+### Games
+Simple Python games like Hangman and number guessing to practice programming concepts.
+
+### Maths
+Programs solving mathematical problems, such as checking if a number is prime.
+
 
 ## List
 ### [Different Methods to Find Median of two Lists](https://github.com/SandKrish/Python-Scripts/blob/main/Different_method_to_Find_median_of_two_lists.ipynb)
