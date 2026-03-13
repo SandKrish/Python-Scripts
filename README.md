@@ -14,7 +14,7 @@ Programs related to number conversions and integer manipulation.
 ### [List](https://github.com/SandKrish/Python-Scripts/blob/main/Different_method_to_Find_median_of_two_lists.ipynb)
 Examples demonstrating operations on Python lists such as finding medians and conditional element selection.
 
-### [If Else]([Leap Year check](https://github.com/SandKrish/Python-Scripts/blob/main/Leap_Year.ipynb)
+### [If Else](https://github.com/SandKrish/Python-Scripts/blob/main/Leap_Year.ipynb)
 Programs using conditional logic to make decisions based on input values.
 
 ### [For Loop](https://github.com/SandKrish/Python-Scripts/blob/main/FizzBuzz.ipynb)
@@ -32,6 +32,6 @@ Simple Python games like Hangman and number guessing to practice programming con
 #### [Hangman Game](https://github.com/SandKrish/Python-Scripts/blob/main/Hangman.py)
 #### [Word Guess with Blank List](https://github.com/SandKrish/Python-Scripts/blob/main/Blank_List_Word_Guess.py)
 
-### [Maths] (https://github.com/SandKrish/Python-Scripts/blob/main/Prime_Number_Check.py)
+### [Maths](https://github.com/SandKrish/Python-Scripts/blob/main/Prime_Number_Check.py)
 Programs solving mathematical problems, such as checking if a number is prime.
 
