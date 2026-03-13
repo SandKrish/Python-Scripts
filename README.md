@@ -1,5 +1,11 @@
 # Python-Scripts
 
+This repository contains a collection of small Python programs demonstrating
+core programming concepts such as loops, conditionals, list operations,
+randomization, and simple games.
+
+The scripts are useful for beginners learning Python fundamentals.
+
 ## Integer
 ### [Convert Integer to Roman](https://github.com/SandKrish/Python-Scripts/blob/main/Integer2Roman.ipynb)
 Converts Integer to Roman Numbers
