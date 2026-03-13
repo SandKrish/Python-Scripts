@@ -32,6 +32,6 @@ Simple Python games like Hangman and number guessing to practice programming con
 #### [Hangman Game](https://github.com/SandKrish/Python-Scripts/blob/main/Hangman.py)
 #### [Word Guess with Blank List](https://github.com/SandKrish/Python-Scripts/blob/main/Blank_List_Word_Guess.py)
 
-### [Maths]([Prime Number Check](https://github.com/SandKrish/Python-Scripts/blob/main/Prime_Number_Check.py)
+### [Maths] (https://github.com/SandKrish/Python-Scripts/blob/main/Prime_Number_Check.py)
 Programs solving mathematical problems, such as checking if a number is prime.
 
