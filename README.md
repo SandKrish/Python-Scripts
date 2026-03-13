@@ -11,7 +11,7 @@ The scripts are useful for beginners learning Python fundamentals.
 ### [Integer](https://github.com/SandKrish/Python-Scripts/blob/main/Integer2Roman.ipynb)
 Programs related to number conversions and integer manipulation.
 
-###[List]((https://github.com/SandKrish/Python-Scripts/blob/main/Different_method_to_Find_median_of_two_lists.ipynb)
+### [List](https://github.com/SandKrish/Python-Scripts/blob/main/Different_method_to_Find_median_of_two_lists.ipynb)
 Examples demonstrating operations on Python lists such as finding medians and conditional element selection.
 
 ### [If Else]([Leap Year check](https://github.com/SandKrish/Python-Scripts/blob/main/Leap_Year.ipynb)
